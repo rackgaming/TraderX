@@ -1,0 +1,11 @@
+{
+    "className": "Snafu_pkp_250RND_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 35000,
+    "sellPrice": 12000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

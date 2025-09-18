@@ -1,0 +1,13 @@
+{
+    "categoryId": "cat_sniper_rifles_001",
+    "categoryName": "Sniper Rifles",
+    "icon": "",
+    "isVisible": true,
+    "licensesRequired": [],
+    "productIds": [
+        "prod_b95_001",
+        "prod_svd_001",
+        "prod_vss_001",
+        "prod_gcgn_m82_barret_001"
+    ]
+}

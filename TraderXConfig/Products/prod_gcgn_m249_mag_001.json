@@ -1,0 +1,11 @@
+{
+    "className": "GCGN_M249_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 12000,
+    "sellPrice": 3500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

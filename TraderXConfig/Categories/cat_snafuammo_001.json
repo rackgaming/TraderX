@@ -1,0 +1,25 @@
+{
+    "categoryId": "cat_snafuammo_001",
+    "categoryName": "SNAFU Ammo",
+    "productIds": [
+        "prod_gcgn_ammo_3006_001",
+        "prod_gcgn_ammo_408chey_001",
+        "prod_snafu_ammo_338_001",
+        "prod_gcgn_ammo_762x51_001",
+        "prod_snafu_ammo_300acc_001",
+        "prod_snafu_ammo_46x30_001",
+        "prod_snafu_ammo_5_7x28mm_001",
+        "prod_snafu_ammo_127x55mm_001",
+        "prod_snafu_ammo_45_70mm_001",
+        "prod_snafu_ammo_500_sw_001",
+        "prod_snafu_ammo_145cal_001",
+        "prod_snafu_md_ammo_556x45mm_m855a1_001",
+        "prod_snafu_ammo_762x25_001",
+        "prod_snafu_ammo_44_001",
+        "prod_gcgn_ammo_50cal_001",
+        "prod_snafu_ammo_127x55mmap_001"
+    ],
+    "isVisible": 1,
+    "icon": "",
+    "licensesRequired": []
+}

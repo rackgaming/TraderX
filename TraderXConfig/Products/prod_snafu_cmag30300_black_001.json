@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_CMAG30300_Black",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 2000,
+    "sellPrice": 600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

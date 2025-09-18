@@ -1,0 +1,12 @@
+{
+    "categoryId": "cat_supressors_001",
+    "categoryName": "Supressors",
+    "icon": "",
+    "isVisible": true,
+    "licensesRequired": [],
+    "productIds": [
+        "prod_pistolsuppressor_001",
+        "prod_ak_suppressor_001",
+        "prod_m4_suppressor_001"
+    ]
+}

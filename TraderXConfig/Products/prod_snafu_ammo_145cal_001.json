@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_Ammo_145Cal",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 5242976,
+    "buyPrice": 500,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

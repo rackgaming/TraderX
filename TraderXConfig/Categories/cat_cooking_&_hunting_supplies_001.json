@@ -1,0 +1,13 @@
+{
+    "categoryId": "cat_cooking_&_hunting_supplies_001",
+    "categoryName": "Cooking & Hunting Supplies",
+    "icon": "",
+    "isVisible": true,
+    "licensesRequired": [],
+    "productIds": [
+        "prod_purificationtablets_001",
+        "prod_pot_001",
+        "prod_tripod_001",
+        "prod_beartrap_001"
+    ]
+}

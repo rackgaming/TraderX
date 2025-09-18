@@ -1,0 +1,10 @@
+{
+    "categoryName": "Cannibus",
+    "icon": "shop",
+    "isVisible": true,
+    "licensesRequired": [],
+    "productIds": [
+        "prod_cigarettepack_chernamorka_001"
+    ],
+    "categoryId": "cat_cannibus_001"
+}

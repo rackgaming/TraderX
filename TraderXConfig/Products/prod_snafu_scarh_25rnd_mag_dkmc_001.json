@@ -1,0 +1,11 @@
+{
+    "className": "Snafu_ScarH_25RND_Mag_DKMC",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 4250,
+    "sellPrice": 1400,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

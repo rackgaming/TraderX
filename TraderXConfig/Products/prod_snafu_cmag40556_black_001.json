@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_CMAG40556_Black",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 2500,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

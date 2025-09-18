@@ -1,0 +1,10 @@
+{
+    "categoryId": "cat_flashlights_001",
+    "categoryName": "Flashlights",
+    "icon": "",
+    "isVisible": true,
+    "licensesRequired": [],
+    "productIds": [
+        "prod_universallight_001"
+    ]
+}

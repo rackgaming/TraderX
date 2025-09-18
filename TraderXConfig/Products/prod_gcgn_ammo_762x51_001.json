@@ -1,0 +1,11 @@
+{
+    "className": "GCGN_Ammo_762x51",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 5243552,
+    "buyPrice": 1050,
+    "sellPrice": 0,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

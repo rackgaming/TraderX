@@ -1,0 +1,11 @@
+{
+    "className": "SNAFUAR15_SPR_30RND_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 2000,
+    "sellPrice": 625,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

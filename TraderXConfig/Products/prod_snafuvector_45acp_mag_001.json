@@ -1,0 +1,11 @@
+{
+    "className": "SNAFUVECTOR_45acp_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 400,
+    "sellPrice": 150,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

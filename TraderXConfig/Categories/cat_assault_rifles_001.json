@@ -1,0 +1,14 @@
+{
+    "categoryId": "cat_assault_rifles_001",
+    "categoryName": "Assault Rifles",
+    "icon": "",
+    "isVisible": true,
+    "licensesRequired": [],
+    "productIds": [
+        "prod_fal_001",
+        "prod_akm_001",
+        "prod_ak101_001",
+        "prod_ak74_001",
+        "prod_m4a1_001"
+    ]
+}

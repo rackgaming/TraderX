@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_RPK16_Tan_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 6000,
+    "sellPrice": 2000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

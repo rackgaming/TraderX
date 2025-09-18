@@ -1,0 +1,21 @@
+{
+    "categoryId": "cat_snafugrips_001",
+    "categoryName": "SNAFU Grips",
+    "productIds": [
+        "prod_sa58_fgrip_001",
+        "prod_snafuar15_afg_001",
+        "prod_snafuscar_afg_tan_001",
+        "prod_snafuscar_afg_bk_001",
+        "prod_snafumpx_grip_001",
+        "prod_snafu_afg_02_black_001",
+        "prod_snafu_afg_02_tan_001",
+        "prod_snafu_afg_02_od_001",
+        "prod_snafu_fgkac_grip_001",
+        "prod_snafu_fgcr_grip_001",
+        "prod_snafu_sr3grip_001",
+        "prod_snafu_m249grip_001"
+    ],
+    "isVisible": 1,
+    "icon": "",
+    "licensesRequired": []
+}
