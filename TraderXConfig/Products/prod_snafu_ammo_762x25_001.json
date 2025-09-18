@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_Ammo_762x25",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 600,
+    "sellPrice": 600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

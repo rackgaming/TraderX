@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_M76_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "GCGN_Ammo_50Cal",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 600,
+    "sellPrice": 600,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

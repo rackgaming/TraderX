@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_Agram_GUN",
+    "coefficient": 0,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 3000,
+    "sellPrice": 1000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

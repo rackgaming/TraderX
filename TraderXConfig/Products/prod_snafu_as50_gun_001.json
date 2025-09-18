@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_AS50_GUN",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 210000,
+    "sellPrice": 75000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

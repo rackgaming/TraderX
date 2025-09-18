@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_M4300AC_10_GUN",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 18000,
+    "sellPrice": 6000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

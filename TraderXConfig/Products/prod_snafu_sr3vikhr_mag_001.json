@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_SR3Vikhr_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 2000,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

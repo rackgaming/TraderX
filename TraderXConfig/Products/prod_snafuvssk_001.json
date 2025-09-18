@@ -1,0 +1,11 @@
+{
+    "className": "SNAFUVSSK",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 220000,
+    "sellPrice": 75000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

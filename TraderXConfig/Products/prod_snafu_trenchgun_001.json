@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_Trenchgun",
+    "coefficient": 0,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 2000,
+    "sellPrice": 750,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

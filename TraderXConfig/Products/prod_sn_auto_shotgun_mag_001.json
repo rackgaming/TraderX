@@ -1,0 +1,11 @@
+{
+    "className": "SN_Auto_Shotgun_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 2500,
+    "sellPrice": 800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

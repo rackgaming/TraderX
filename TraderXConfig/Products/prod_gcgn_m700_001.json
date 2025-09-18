@@ -1,0 +1,11 @@
+{
+    "className": "GCGN_M700",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 20000,
+    "sellPrice": 6500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

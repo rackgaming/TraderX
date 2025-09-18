@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_M300TAN",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 200000,
+    "sellPrice": 70000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

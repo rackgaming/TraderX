@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_Saint_Gun",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 22000,
+    "sellPrice": 7250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "GCGN_M1Garand",
+    "coefficient": 0,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 8000,
+    "sellPrice": 4000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

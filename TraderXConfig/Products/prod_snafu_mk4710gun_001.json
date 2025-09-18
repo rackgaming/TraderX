@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_MK4710Gun",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 16000,
+    "sellPrice": 5500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

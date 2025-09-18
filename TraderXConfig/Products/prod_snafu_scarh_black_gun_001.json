@@ -1,0 +1,11 @@
+{
+    "className": "Snafu_ScarH_Black_GUN",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 30000,
+    "sellPrice": 10000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "Snafu_pkp_Black_GUN",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 75000,
+    "sellPrice": 25000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

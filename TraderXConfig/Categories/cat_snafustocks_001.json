@@ -1,0 +1,28 @@
+{
+    "categoryId": "cat_snafustocks_001",
+    "categoryName": "SNAFU Stocks",
+    "productIds": [
+        "prod_sa58_stock_001",
+        "prod_snafu_ak_ar_stock_001",
+        "prod_snafu_m4ss_stock_001",
+        "prod_snafu_moe_stock_001",
+        "prod_snafu_prsgen3_stock_001",
+        "prod_snafu_scqr_stock_001",
+        "prod_snafu_sadar_stock_001",
+        "prod_snafu_sba_stock_001",
+        "prod_snafu_ubr_stock_001",
+        "prod_snafu_ak19_stock_001",
+        "prod_snafu_mk47_stock_001",
+        "prod_snafu_m249stock_001",
+        "prod_snafu_m200s_bk_001",
+        "prod_snafu_m200s_tan_001",
+        "prod_snafu_m200s_green_001",
+        "prod_snafu_m200s_snow_001",
+        "prod_snafu_m200b_bk_001",
+        "prod_snafu_wsr3stock_001",
+        "prod_snafudsasa58_stock_001"
+    ],
+    "isVisible": 1,
+    "icon": "",
+    "licensesRequired": []
+}

@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_MD_Ammo_556x45mm_M855A1",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 800,
+    "sellPrice": 800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

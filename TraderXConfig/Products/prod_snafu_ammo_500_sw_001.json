@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_Ammo_500_SW",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 800,
+    "sellPrice": 800,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

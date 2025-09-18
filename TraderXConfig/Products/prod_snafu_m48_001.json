@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_M48",
+    "coefficient": 1,
+    "maxStock": 100,
+    "tradeQuantity": 1,
+    "buyPrice": 8500,
+    "sellPrice": 2500,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

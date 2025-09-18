@@ -1,0 +1,11 @@
+{
+    "className": "SN_Auto_Shotgun",
+    "coefficient": 0,
+    "maxStock": -1,
+    "tradeQuantity": 524388,
+    "buyPrice": 12000,
+    "sellPrice": 4000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

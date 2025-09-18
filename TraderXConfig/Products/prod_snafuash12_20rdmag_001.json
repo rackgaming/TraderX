@@ -1,0 +1,11 @@
+{
+    "className": "SNAFUASh12_20rdMag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 45000,
+    "sellPrice": 15000,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}

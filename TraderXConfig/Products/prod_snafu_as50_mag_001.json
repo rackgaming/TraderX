@@ -1,0 +1,11 @@
+{
+    "className": "SNAFU_AS50_Mag",
+    "coefficient": 1,
+    "maxStock": -1,
+    "tradeQuantity": 1,
+    "buyPrice": 40000,
+    "sellPrice": 13250,
+    "stockSettings": 0,
+    "attachments": [],
+    "variants": []
+}
